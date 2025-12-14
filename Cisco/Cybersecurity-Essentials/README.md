@@ -1,2 +1,2 @@
 # Cybersecurity Essentials
-Notes and summaries for the Cisco Cybersecurity Essentials course. (Coming soon)
+Further modules will be added after completing exam preparations.
