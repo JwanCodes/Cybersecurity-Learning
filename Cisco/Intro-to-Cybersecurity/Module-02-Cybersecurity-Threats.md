@@ -15,3 +15,12 @@
 
 ### ❓ Questions I Still Have
 - Which types of attacks are most common in Saudi Arabia?
+
+### 🧭 Real-World Connection
+...
+
+### 🪞 Personal Reflection
+...
+
+### 🎯 Practical Takeaway
+...
