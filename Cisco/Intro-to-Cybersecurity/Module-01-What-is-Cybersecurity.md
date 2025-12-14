@@ -15,3 +15,13 @@
 ❓ Things I Want to Learn More About
 * Which attacks affect Saudi Arabia the most
 * How cybersecurity teams prevent attacks inside big companies
+
+### 🧭 Real-World Connection
+Weak passwords and phishing attacks are still among the most common causes of data breaches in companies.
+This module helped me understand why human behavior is often the biggest security risk.
+### 🪞 Personal Reflection
+Before this module, I thought cybersecurity was mainly about technical hacking.
+This module changed my perspective by showing how important user behavior and basic security practices are.
+### 🎯 Practical Takeaway
+I now pay more attention to password strength, software updates, and suspicious emails,
+and I understand why companies enforce security policies.
